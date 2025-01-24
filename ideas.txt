@@ -1,0 +1,31 @@
+PROBLEM:
+-What information can be gained from a set of worn stairs.
+-How often were the stairs used?
+-Was a direction of travel preferred?
+-How many people used the stairs simultaneously?
+
+EXTRA:
+-Assume we have estimates for age; usage; day-to-day life of those in the structure.
+-Is the wear consistent with the data provided?
+-Is the age of the stairwell consistent with its use?
+-Has it been repaired?
+-Can you determine what material has been used?
+-Can you determine the number of people using the stairs day-to-day?
+
+
+INPUTS:
+-Approximate age
+-Material
+-Measurements of height, depth, etc. at different points.
+-Location
+-Inside/Outside
+
+
+OUTPUTS
+-How frequently were the stairs used
+-Which direction preferred
+-How many people used the stairs simultaneously?
+
+
+
+
