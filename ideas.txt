@@ -26,6 +26,10 @@ OUTPUTS
 -Which direction preferred
 -How many people used the stairs simultaneously?
 
-
+IDEAS:
+-Bimodal distribution for deciding first step.
+-Some continuous distribution for deciding how long the step taken is, i.e small steps everyone >1.6m takes 2 at a time, large steps >1.8m etc.
+-Then alternate where the steps are taken.
+-Add up steps.
 
 

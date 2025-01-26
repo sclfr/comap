@@ -4,4 +4,8 @@ Speed of Granite Erosion https://www.uvm.edu/cosmolab/papers/Bierman_1995_2133.p
 
 Human Loading on Staircases https://discovery.ucl.ac.uk/id/eprint/1318004/1/312827.pdf
 
+Cambridge Friction https://www.doitpoms.ac.uk/tlplib/tribology/index.php
 
+Cubic Convolution Interpolation for Digital Image Processing R. Keys
+
+Interpolation Powerpoint https://www.mssc.mu.edu/~daniel/pubs/RoweTalkMSCS_BiCubic.pdf
